@@ -19,6 +19,7 @@
         d. SARIMA model for seasonal time series forecasting
     5. Evaluating and comparing the models' performance using root mean squared error (RMSE)
     6. Generating forecasts and plotting the results
+
 Please refer to the code comments for detailed explanations of each step.
 
 # Dataset
@@ -29,10 +30,17 @@ The project provides forecasts for the demand of passengers traveling by airplan
 
 # Libraries Used
 Numpy
+
 Pandas
+
 Seaborn
+
 Matplotlib
+
 statsmodels
+
 scikit-learn
+
 pmdarima
+
 prophet
